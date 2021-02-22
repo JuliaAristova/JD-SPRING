@@ -8,8 +8,8 @@ if some changes - you create a new class (MIMentor), in implements interface and
 Here you create an object and call for method
 Loosely Coupled
 
-BUT you need to create an object and pass it  --> not convinient
-Spring gives a solution
+BUT you need to create an object and pass it  --> not convinient (polimorphic way)
+Spring gives a solution (IoC)
  */
 public class CybertekApp {
 
