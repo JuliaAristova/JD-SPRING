@@ -12,7 +12,7 @@ public class Java implements Course {
         System.out.println("Executing init method");
     }
     //destroy method
-    public void myDestroyMethof() {
+    public void myDestroyMethod() {
         System.out.println("Executing destroy method");
     }
 }
